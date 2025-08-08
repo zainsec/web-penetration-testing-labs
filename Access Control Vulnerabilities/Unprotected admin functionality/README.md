@@ -1,5 +1,7 @@
+#Unprotected admin functionality
 
 This is a super brief writeup of the first Apprentice-level access control lab from Portswigger Academy.
+
 ## 🧩 Challenge Information
 
 ![Challenge Screenshot](images/challenge-screenshot.png)
