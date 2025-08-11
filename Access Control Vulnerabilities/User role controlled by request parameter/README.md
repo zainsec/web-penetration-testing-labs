@@ -32,7 +32,7 @@ Bypassing role controlled by request parameter and accessing admin panel needs s
 	1- Visiting `My account` page as Weiner.
 	2- Turn on interception mode.
 	3- Reload the page 
-	4- Edit the `cookie`header on every request send.  
+	4- Edit the `cookie`header on every request send. 
 	
 Enable interception and refresh the page. Then edit the cookies header to set `Admin=true` as we did at repeater then forward the request.
  
