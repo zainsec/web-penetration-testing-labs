@@ -33,6 +33,6 @@ Look closely at line 46, here it says -_if the current user is an admin_- an ele
 
 We have **accessed the admin panel** simply by typing `/admin-qhjgwh`at the end of the URL, bypassing any login requirements. This exposed a critical flaw, allowing an attacker to perform privileged actions, such as deleting the `carlos` user.
 
-![Admin Panel Page](panel-discovery.png)
+![Admin Panel Page](images/panel-discovery.png)
 
  *This second lab reinforced how subtle authorization oversights can quietly undermine an entire application’s security—another step forward in sharpening my pentesting instincts.*
