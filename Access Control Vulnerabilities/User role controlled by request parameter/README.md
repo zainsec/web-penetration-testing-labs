@@ -28,7 +28,7 @@ It worked! the server checks the admin privilege using only cookies admin value.
 ---
 ## 🚨 Exploitation
 
-Bypassing role controlled by request parameter and accessing admin panel needs some steps:
+Bypassing role controlled by request parameter and accessing admin panel needs some steps: 
 1- Visiting `My account` page as Weiner.
 2- Turn on interception mode.
 3- Reload the page 
