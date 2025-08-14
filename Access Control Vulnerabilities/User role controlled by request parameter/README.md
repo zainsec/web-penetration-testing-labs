@@ -19,7 +19,7 @@ While observing requests using burp, the cookies are sent to the server with an 
 
 ![Investigate Requests](images/investigate-requests.png)
 
-Send it to the repeater so we can test whether changing the value to `true` will return code `200 OK `or `304 FOUND`.
+Send it to the repeater so we can test whether changing the value to `true` will return code `200 OK `or `302 FOUND`.
 
 ![Test Repeater](images/repeater-test.png)
 
