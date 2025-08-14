@@ -1,4 +1,4 @@
-	# User role can be modified in user profile
+# User role can be modified in user profile
   
 This is a brief write-up of the 4th **APPRENTICE** access control lab from PortSwigger Web Security Academy.
 
