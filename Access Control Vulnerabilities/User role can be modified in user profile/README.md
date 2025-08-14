@@ -17,7 +17,6 @@ Click the **“Access the Lab”** button to launch a temporary website created 
 Visiting every webpage while observing requests and responses is an essential step. Log in - Log out - Visit pages while logged in and try them without. Try to use all functions as possible to understand how website requests work.
 
 ![Observing My Account](images/observing-myaccount.png)
-![]()
 While changing the email and observing the request, we found the POST request body contains "email" key and its new value that should be changed to. 
 The response contained some more keys like `username`, `apikey`, and `roleid` with value 1.
 
